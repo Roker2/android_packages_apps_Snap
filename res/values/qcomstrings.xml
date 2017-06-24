@@ -1243,5 +1243,12 @@
     <string name="pref_camera2_capture_mfsr_entry_disable">Disabled</string>
     <string name="pref_camera2_capture_mfsr_entry_value_enable" translatable="false">1</string>
     <string name="pref_camera2_capture_mfsr_entry_value_disable" translatable="false">0</string>
+
+    <!-- Sony stuff -->
+    <string name="pref_sony_vs_title" translatable="false">Sony Video Stabilisation</string>
+    <string name="pref_sony_vs_entry_off" translatable="false">Off</string>
+    <string name="pref_sony_vs_entry_on" translatable="false">Steady Shot</string>
+    <string name="pref_sony_vs_entry_ia" translatable="false">Intelligent Active</string>
+    <string name="pref_sony_vs_entry_default" translatable="false">off</string>
 </resources>
 
