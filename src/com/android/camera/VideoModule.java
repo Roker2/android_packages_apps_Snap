@@ -2932,6 +2932,11 @@ public class VideoModule implements CameraModule,
 		CameraSettings.KEY_SONY_VS,
 		mActivity.getString(R.string.pref_sony_vs_entry_default));
 	mParameters.set("sony-vs", sony_vs_level );
+	String sony_hdr_video = mPreferences.getString(
+                CameraSettings.KEY_SONY_VIDEO_HDR,
+		mActivity.getString(R.string.pref_sony_hdr_video_default));
+        mParameters.set("sony-video-hdr", sony_hdr_video );
+	mParameters.set("video-hdr", sony_hdr_video );
         // Set exposure compensation
         int value = CameraSettings.readExposure(mPreferences);
         int max = mParameters.getMaxExposureCompensation();
