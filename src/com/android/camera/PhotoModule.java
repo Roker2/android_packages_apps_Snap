@@ -3380,6 +3380,12 @@ public class PhotoModule
             mParameters.setColorEffect(colorEffect);
         }
 
+        // Set Sony AE mode 
+	String sony_aemode = mPreferences.getString(
+                CameraSettings.KEY_SONY_AE_MODE,
+                mActivity.getString(R.string.pref_sony_ae_mode_default));
+	mParameters.set("sony-ae-mode", sony_aemode);
+
         //Set Saturation
         String saturationStr = getSaturationSafe();
         if (saturationStr != null) {
