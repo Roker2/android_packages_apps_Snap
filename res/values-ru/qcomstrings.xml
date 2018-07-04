@@ -51,6 +51,7 @@
   <string name="pref_camera_audioencoder_title">Аудиокодек</string>
   <!-- Settings screen, Audio encoder dialog radio button choices -->
   <!-- Default Skin Tone Enhancement setting. Do not translate. -->
+  <string name="pref_camera_skinToneEnhancement_default">disable</string>
   <!-- Settings screen, Select Skin Tone Enhancement title -->
   <string name="pref_camera_skinToneEnhancement_title">Улучшение цвета кожи</string>
   <!-- Settings screen, Skin Tone Enhancement radio button choices -->
@@ -179,6 +180,7 @@
   <string name="pref_camera_ae_bracket_hdr_entry_ae_bracket">Автобрекетинг</string>
   <string name="pref_camera_ae_bracket_hdr_title">Автобрекетинг</string>
   <string name="pref_camera_ae_bracket_hdr_entry_on">Вкл</string>
+  <string name="pref_camera_ae_bracket_hdr_entry_off">Выкл.</string>
   <string name="err_app_unsupport_ae_bracket_code">Автобрекетинг не поддерживается</string>
   <!-- The messsage shown if user selects a snapshot resolution lower than the current video size. -->
   <string name="snapshot_lower_than_video">Разрешение снимка меньше, чем разрешение видеосъёмки. Выберите разрешение выше или равное разрешению видеосъёмки.</string>
