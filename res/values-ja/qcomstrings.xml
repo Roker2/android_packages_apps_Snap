@@ -298,7 +298,7 @@
   <!-- Settings screen, Multiple levels entries -->
   <string name="pref_camera_sharpness_entry_level0">レベル0</string>
   <string name="pref_camera_sharpness_entry_level1">レベル1</string>
-  <string name="pref_camera_sharpness_entry_level2">レベル2（デフォルト）</string>
+  <string name="pref_camera_sharpness_entry_level2">レベル2（既定）</string>
   <string name="pref_camera_sharpness_entry_level3">レベル3</string>
   <string name="pref_camera_sharpness_entry_level4">レベル4</string>
   <string name="pref_camera_sharpness_entry_level5">レベル5</string>
@@ -309,7 +309,7 @@
   <string name="pref_camera_contrast_entry_level2">レベル2</string>
   <string name="pref_camera_contrast_entry_level3">レベル3</string>
   <string name="pref_camera_contrast_entry_level4">レベル4</string>
-  <string name="pref_camera_contrast_entry_level5">レベル5（デフォルト）</string>
+  <string name="pref_camera_contrast_entry_level5">レベル5（既定）</string>
   <string name="pref_camera_contrast_entry_level6">レベル6</string>
   <string name="pref_camera_contrast_entry_level7">レベル7</string>
   <string name="pref_camera_contrast_entry_level8">レベル8</string>
@@ -321,7 +321,7 @@
   <string name="pref_camera_saturation_entry_level2">レベル2</string>
   <string name="pref_camera_saturation_entry_level3">レベル3</string>
   <string name="pref_camera_saturation_entry_level4">レベル4</string>
-  <string name="pref_camera_saturation_entry_level5">レベル5（デフォルト）</string>
+  <string name="pref_camera_saturation_entry_level5">レベル5（既定）</string>
   <string name="pref_camera_saturation_entry_level6">レベル6</string>
   <string name="pref_camera_saturation_entry_level7">レベル7</string>
   <string name="pref_camera_saturation_entry_level8">レベル8</string>
@@ -503,7 +503,7 @@
   <string name="pref_camera2_saturation_level_entry_2">レベル2</string>
   <string name="pref_camera2_saturation_level_entry_3">レベル3</string>
   <string name="pref_camera2_saturation_level_entry_4">レベル4</string>
-  <string name="pref_camera2_saturation_level_entry_5">レベル5（デフォルト）</string>
+  <string name="pref_camera2_saturation_level_entry_5">レベル5（既定）</string>
   <string name="pref_camera2_saturation_level_entry_6">レベル6</string>
   <string name="pref_camera2_saturation_level_entry_7">レベル7</string>
   <string name="pref_camera2_saturation_level_entry_8">レベル8</string>
