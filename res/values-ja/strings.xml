@@ -568,15 +568,15 @@ CHAR LIMIT = NONE] -->
     <item quantity="other">10枚中%1$d枚の画像を保存しました</item>
   </plurals>
   <string name="dialog_do_not_show">次回から表示しない</string>
-  <string name="delete_best_dialog_title">すべて削除しますか？</string>
-  <string name="delete_best_dialog_content">10枚すべての画像を削除しますか？</string>
+  <string name="delete_best_dialog_title">全て削除しますか？</string>
+  <string name="delete_best_dialog_content">10枚全ての画像を削除しますか？</string>
   <string name="delete_best_dialog_native_bt">キャンセル</string>
   <string name="delete_best_dialog_positive_bt">削除</string>
-  <string name="delete_all_best_dialog_title">すべて削除しますか？</string>
-  <string name="delete_all_best_dialog_content">すべての画像を削除します。よろしいですか？</string>
+  <string name="delete_all_best_dialog_title">全て削除しますか？</string>
+  <string name="delete_all_best_dialog_content">全ての画像を削除します。よろしいですか？</string>
   <string name="delete_all_best_dialog_native_bt">キャンセル</string>
-  <string name="delete_all_best_dialog_positive_bt">すべて削除</string>
-  <string name="overflow_best_item1">すべて保存</string>
-  <string name="overflow_best_item2">すべて削除</string>
+  <string name="delete_all_best_dialog_positive_bt">全て削除</string>
+  <string name="overflow_best_item1">全て保存</string>
+  <string name="overflow_best_item2">全て削除</string>
   <string name="settings_title">設定</string>
 </resources>

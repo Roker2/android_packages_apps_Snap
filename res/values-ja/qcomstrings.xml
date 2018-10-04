@@ -417,7 +417,7 @@
   <string name="text_tsmakeup_beautify_toast">ビューティーモード</string>
   <string name="all_in_focus">全焦点</string>
   <string name="refocus_toast">前の写真をリフォーカスするには、ここをタップしてください</string>
-  <string name="refocus_prompt_message">UbiFocus を使用すると、シャッターボタンを押す度に5枚写真を撮影します。5枚の写真を1枚に結合してすべてにフォーカスされているようにします。写真を撮影した後でも再フォーカスできます。</string>
+  <string name="refocus_prompt_message">UbiFocus を使用すると、シャッターボタンを押す度に5枚写真を撮影します。5枚の写真を1枚に結合して全てにフォーカスされているようにします。写真を撮影した後でも再フォーカスできます。</string>
   <string name="camera_thermal_shutdown">端末の温度が上昇したため、カメラを終了します。</string>
   <string name="camera_server_died">メディアサーバーが停止したため、カメラを終了します。</string>
   <string name="camera_unknown_error">不明なエラーが発生したため、カメラを終了します。</string>
@@ -482,7 +482,7 @@
 それらを合成して保存することであとからフォーカス位置を変更できます。</string>
   <string name="pref_camera2_scene_mode_opti_zoom_instructional_content">OptiZoom を使用すると拡大しても鮮明な画像になります。撮影前でも撮影後でもズームできます。</string>
   <string name="pref_camera2_scene_mode_sports_instructional_content">スポーツモードはより良いスポーツやアクション写真を撮ることができます。\n\n写真には効果がありますがビデオ撮影には効果はありません。</string>
-  <string name="pref_camera2_scene_mode_hdr_instructional_content">暗いシーンや逆行のようなシーンが混在しているときは、最高の画質を得るために「HDR」を選択します。</string>
+  <string name="pref_camera2_scene_mode_hdr_instructional_content">暗いシーンや逆行のようなシーンが混在している時は、最高の画質を得るために「HDR」を選択します。</string>
   <string name="pref_camera2_scene_mode_best_photo_instructional_content">10枚の写真を連写し、ベストな1枚を選べます。</string>
   <string name="pref_camera2_scene_mode_chroma_flash_instructional_content">ChromaFlash を使用すると、カメラのフラッシュが写真の全ての人物やオブジェクトに合わせて最適化されます。 この機能はバックカメラにのみ適用されます。</string>
   <string name="pref_camera2_scene_mode_sharp_photo_instructional_content">シャープネスはシーン内の動きや手の震えによるブレを軽減します。</string>
