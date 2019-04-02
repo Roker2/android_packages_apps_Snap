@@ -51,6 +51,7 @@
     <string name="pref_camera_audioencoder_title">Audio-Encoder</string>
     <!-- Settings screen, Audio encoder dialog radio button choices -->
     <!-- Default Skin Tone Enhancement setting. Do not translate. -->
+    <string name="pref_camera_skinToneEnhancement_default">deaktivieren</string>
     <!-- Settings screen, Select Skin Tone Enhancement title -->
     <string name="pref_camera_skinToneEnhancement_title">Hauttöne verbessern</string>
     <!-- Settings screen, Skin Tone Enhancement radio button choices -->
@@ -179,6 +180,7 @@
     <string name="pref_camera_ae_bracket_hdr_entry_ae_bracket">Belichtungsreihe</string>
     <string name="pref_camera_ae_bracket_hdr_title">Belichtungsreihe</string>
     <string name="pref_camera_ae_bracket_hdr_entry_on">An</string>
+    <string name="pref_camera_ae_bracket_hdr_entry_off">Aus</string>
     <string name="err_app_unsupport_ae_bracket_code">Belichtungsreihen werden noch nicht unterstützt</string>
     <!-- The messsage shown if user selects a snapshot resolution lower than the current video size. -->
     <string name="snapshot_lower_than_video">Die Auflösung des Schnappschusses ist geringer als die Videoauflösung. Bitte wählen Sie die gleiche oder eine höhere Auflösung als die aktuelle Videoauflösung.</string>

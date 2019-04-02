@@ -51,6 +51,7 @@
     <string name="pref_camera_audioencoder_title">オーディオコーデック</string>
     <!-- Settings screen, Audio encoder dialog radio button choices -->
     <!-- Default Skin Tone Enhancement setting. Do not translate. -->
+    <string name="pref_camera_skinToneEnhancement_default">無効</string>
     <!-- Settings screen, Select Skin Tone Enhancement title -->
     <string name="pref_camera_skinToneEnhancement_title">肌の色合いの強調</string>
     <!-- Settings screen, Skin Tone Enhancement radio button choices -->
@@ -179,6 +180,7 @@
     <string name="pref_camera_ae_bracket_hdr_entry_ae_bracket">自動段階露出</string>
     <string name="pref_camera_ae_bracket_hdr_title">自動段階露出</string>
     <string name="pref_camera_ae_bracket_hdr_entry_on">ON</string>
+    <string name="pref_camera_ae_bracket_hdr_entry_off">OFF</string>
     <string name="err_app_unsupport_ae_bracket_code">自動露出ブラケットはサポートされていません</string>
     <!-- The messsage shown if user selects a snapshot resolution lower than the current video size. -->
     <string name="snapshot_lower_than_video">動画スナップショットのサイズが動画のサイズよりも低く設定されています。今の動画のサイズと同等以上の解像度を選択してください。</string>
@@ -224,7 +226,7 @@
     <string name="pref_camera_iso_title">ISO</string>
     <!-- Settings screen, ISO dialog radio button choices -->
     <string name="pref_camera_iso_entry_auto">オート</string>
-    <string name="pref_camera_iso_entry_isodeblur">オート（HJR）</string>
+    <string name="pref_camera_iso_entry_isodeblur">オート (HJR)</string>
     <string name="pref_camera_iso_entry_iso50">ISO50</string>
     <string name="pref_camera_iso_entry_iso100">ISO100</string>
     <string name="pref_camera_iso_entry_iso125">ISO125</string>
@@ -258,8 +260,8 @@
     <!-- Default Anti Banding setting. -->
     <!-- Settings screen, Anti Banding entries -->
     <string name="pref_camera_antibanding_entry_0">オート</string>
-    <string name="pref_camera_antibanding_entry_1">50 Hz（ヨーロッパ）</string>
-    <string name="pref_camera_antibanding_entry_2">60 Hz（アメリカ）</string>
+    <string name="pref_camera_antibanding_entry_1">50 Hz (ヨーロッパ)</string>
+    <string name="pref_camera_antibanding_entry_2">60 Hz (アメリカ)</string>
     <!-- Default color effect setting. -->
     <string name="pref_camera_filter_mode_entry_on">ON</string>
     <string name="pref_camera_filter_mode_entry_off">OFF</string>
@@ -296,7 +298,7 @@
     <!-- Settings screen, Multiple levels entries -->
     <string name="pref_camera_sharpness_entry_level0">レベル0</string>
     <string name="pref_camera_sharpness_entry_level1">レベル1</string>
-    <string name="pref_camera_sharpness_entry_level2">レベル2（デフォルト）</string>
+    <string name="pref_camera_sharpness_entry_level2">レベル2 (既定)</string>
     <string name="pref_camera_sharpness_entry_level3">レベル3</string>
     <string name="pref_camera_sharpness_entry_level4">レベル4</string>
     <string name="pref_camera_sharpness_entry_level5">レベル5</string>
@@ -307,7 +309,7 @@
     <string name="pref_camera_contrast_entry_level2">レベル2</string>
     <string name="pref_camera_contrast_entry_level3">レベル3</string>
     <string name="pref_camera_contrast_entry_level4">レベル4</string>
-    <string name="pref_camera_contrast_entry_level5">レベル5（デフォルト）</string>
+    <string name="pref_camera_contrast_entry_level5">レベル5 (既定)</string>
     <string name="pref_camera_contrast_entry_level6">レベル6</string>
     <string name="pref_camera_contrast_entry_level7">レベル7</string>
     <string name="pref_camera_contrast_entry_level8">レベル8</string>
@@ -319,7 +321,7 @@
     <string name="pref_camera_saturation_entry_level2">レベル2</string>
     <string name="pref_camera_saturation_entry_level3">レベル3</string>
     <string name="pref_camera_saturation_entry_level4">レベル4</string>
-    <string name="pref_camera_saturation_entry_level5">レベル5（デフォルト）</string>
+    <string name="pref_camera_saturation_entry_level5">レベル5 (既定)</string>
     <string name="pref_camera_saturation_entry_level6">レベル6</string>
     <string name="pref_camera_saturation_entry_level7">レベル7</string>
     <string name="pref_camera_saturation_entry_level8">レベル8</string>
@@ -409,13 +411,13 @@
     <string name="pref_camera_tsmakeup_level_whiten">白くする</string>
     <string name="pref_camera_tsmakeup_level_clean">ソフトにする</string>
     <string name="text_tsmakeup_alert_title">注意</string>
-    <string name="text_tsmakeup_alert_msg">ビューティーモードを使用するには顔検出を有効にしないといけません。続行しますか？</string>
+    <string name="text_tsmakeup_alert_msg">ビューティーモードを使用するには顔検出を有効にしないといけません。続行しますか?</string>
     <string name="text_tsmakeup_alert_continue">続行</string>
     <string name="text_tsmakeup_alert_quit">キャンセル</string>
     <string name="text_tsmakeup_beautify_toast">ビューティーモード</string>
     <string name="all_in_focus">全焦点</string>
     <string name="refocus_toast">前の写真をリフォーカスするには、ここをタップしてください</string>
-    <string name="refocus_prompt_message">UbiFocus を使用すると、シャッターボタンを押す度に5枚写真を撮影します。5枚の写真を1枚に結合してすべてにフォーカスされているようにします。写真を撮影した後でも再フォーカスできます。</string>
+    <string name="refocus_prompt_message">UbiFocus を使用すると、シャッターボタンを押す度に5枚写真を撮影します。5枚の写真を1枚に結合して全てにフォーカスされているようにします。写真を撮影した後でも再フォーカスできます。</string>
     <string name="camera_thermal_shutdown">端末の温度が上昇したため、カメラを終了します。</string>
     <string name="camera_server_died">メディアサーバーが停止したため、カメラを終了します。</string>
     <string name="camera_unknown_error">不明なエラーが発生したため、カメラを終了します。</string>
@@ -424,7 +426,7 @@
     <string name="pref_camera2_camera2_entry_enable">有効</string>
     <string name="pref_camera2_camera2_entry_disable">無効</string>
     <string name="pref_camera2_mono_only_title">モノクロのみ</string>
-    <string name="pref_camera2_mono_only_entry_on">オン</string>
+    <string name="pref_camera2_mono_only_entry_on">ON</string>
     <string name="pref_camera2_mono_only_entry_off">OFF</string>
     <string name="pref_camera2_mono_preview_title">モノクロプレビュー</string>
     <string name="pref_camera2_mono_preview_entry_on">ON</string>
@@ -437,7 +439,7 @@
     <string name="pref_camera2_mpo_entry_on">ON</string>
     <string name="pref_camera2_mpo_entry_off">OFF</string>
     <string name="pref_camera2_makeup_title">メイクアップ</string>
-    <string name="pref_camera2_makeup_entry_on">オン</string>
+    <string name="pref_camera2_makeup_entry_on">ON</string>
     <string name="pref_camera2_makeup_entry_off">OFF</string>
     <string name="pref_camera2_noise_reduction_title">ノイズリダクション</string>
     <string name="pref_camera2_noise_reduction_entry_off">OFF</string>
@@ -447,7 +449,7 @@
     <string name="pref_camera2_videosnap_entry_enable">有効</string>
     <string name="pref_camera2_videosnap_entry_disable">無効</string>
     <string name="pref_camera2_trackingfocus_title">追尾フォーカス</string>
-    <string name="pref_camera2_trackingfocus_entry_on">オン</string>
+    <string name="pref_camera2_trackingfocus_entry_on">ON</string>
     <string name="pref_camera2_trackingfocus_entry_off">OFF</string>
     <string name="pref_camera_scenemode_entry_bestpicture">最高の写真</string>
     <string name="pref_camera_scenemode_entry_sharpshooter">シャープネス</string>
@@ -480,12 +482,12 @@
 それらを合成して保存することであとからフォーカス位置を変更できます。</string>
     <string name="pref_camera2_scene_mode_opti_zoom_instructional_content">OptiZoom を使用すると拡大しても鮮明な画像になります。撮影前でも撮影後でもズームできます。</string>
     <string name="pref_camera2_scene_mode_sports_instructional_content">スポーツモードはより良いスポーツやアクション写真を撮ることができます。\n\n写真には効果がありますがビデオ撮影には効果はありません。</string>
-    <string name="pref_camera2_scene_mode_hdr_instructional_content">暗いシーンや逆行のようなシーンが混在しているときは、最高の画質を得るために「HDR」を選択します。</string>
+    <string name="pref_camera2_scene_mode_hdr_instructional_content">暗いシーンや逆行のようなシーンが混在している時は、最高の画質を得るために「HDR」を選択します。</string>
     <string name="pref_camera2_scene_mode_best_photo_instructional_content">10枚の写真を連写し、ベストな1枚を選べます。</string>
     <string name="pref_camera2_scene_mode_chroma_flash_instructional_content">ChromaFlash を使用すると、カメラのフラッシュが写真の全ての人物やオブジェクトに合わせて最適化されます。 この機能はバックカメラにのみ適用されます。</string>
     <string name="pref_camera2_scene_mode_sharp_photo_instructional_content">シャープネスはシーン内の動きや手の震えによるブレを軽減します。</string>
     <string name="pref_camera2_scene_mode_tracking_focus_instructional_content">写真やビデオの撮影中に、選択した人や物体を追跡したりピントを合わせたりすることができます。開始するには追跡する人物または物体にフ四角を合わせます。</string>
-    <string name="pref_camera2_scene_mode_time_lapse_instructional_content">低速度撮影（コマ送り）モードでは、録画中の長時間のビデオを短時間のビデオに変換できます。この効果は動画には適用されますが、写真には適用されません。</string>
+    <string name="pref_camera2_scene_mode_time_lapse_instructional_content">低速度撮影 (コマ送り) モードでは、録画中の長時間のビデオを短時間のビデオに変換できます。この効果は動画には適用されますが、写真には適用されません。</string>
     <string name="pref_camera2_scene_mode_panorama_instructional_content">左右にパンするとパノラマ写真を撮ることができます。 上下にパンして縦長の写真を撮ることもできます。</string>
     <string name="pref_camera2_scene_mode_blur_buster_instructional_content">BlurBuster は手振れによるぼやけを低減します。安定した撮影が困難な場所で写真を撮る際に便利です。</string>
     <string name="pref_camera2_not_show_again">次回から表示しない</string>
@@ -500,7 +502,7 @@
     <string name="pref_camera2_saturation_level_entry_2">レベル2</string>
     <string name="pref_camera2_saturation_level_entry_3">レベル3</string>
     <string name="pref_camera2_saturation_level_entry_4">レベル4</string>
-    <string name="pref_camera2_saturation_level_entry_5">レベル5（デフォルト）</string>
+    <string name="pref_camera2_saturation_level_entry_5">レベル5 (既定)</string>
     <string name="pref_camera2_saturation_level_entry_6">レベル6</string>
     <string name="pref_camera2_saturation_level_entry_7">レベル7</string>
     <string name="pref_camera2_saturation_level_entry_8">レベル8</string>
@@ -508,8 +510,8 @@
     <string name="pref_camera2_saturation_level_entry_10">レベル10</string>
     <string name="pref_camera2_anti_banding_level_title">アンチバンディング</string>
     <string name="pref_camera2_anti_banding_level_entry_off">OFF</string>
-    <string name="pref_camera2_anti_banding_level_entry_50hz">50 Hz（ヨーロッパ）</string>
-    <string name="pref_camera2_anti_banding_level_entry_60hz">60 Hz（アメリカ）</string>
+    <string name="pref_camera2_anti_banding_level_entry_50hz">50 Hz (ヨーロッパ)</string>
+    <string name="pref_camera2_anti_banding_level_entry_60hz">60 Hz (アメリカ)</string>
     <string name="pref_camera2_anti_banding_level_entry_auto">オート</string>
     <string name="pref_camera2_histogram_title">ヒストグラム</string>
     <string name="pref_camera2_histogram_entry_enable">有効</string>

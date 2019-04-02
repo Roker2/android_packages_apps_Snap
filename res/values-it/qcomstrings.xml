@@ -51,6 +51,7 @@
     <string name="pref_camera_audioencoder_title">Codec audio</string>
     <!-- Settings screen, Audio encoder dialog radio button choices -->
     <!-- Default Skin Tone Enhancement setting. Do not translate. -->
+    <string name="pref_camera_skinToneEnhancement_default">disabilita</string>
     <!-- Settings screen, Select Skin Tone Enhancement title -->
     <string name="pref_camera_skinToneEnhancement_title">Miglioramento tono della pelle</string>
     <!-- Settings screen, Skin Tone Enhancement radio button choices -->
@@ -180,6 +181,7 @@
     <string name="pref_camera_ae_bracket_hdr_entry_ae_bracket">Auto Exposure Bracketing</string>
     <string name="pref_camera_ae_bracket_hdr_title">Auto Exposure Bracketing</string>
     <string name="pref_camera_ae_bracket_hdr_entry_on">On</string>
+    <string name="pref_camera_ae_bracket_hdr_entry_off">Off</string>
     <string name="err_app_unsupport_ae_bracket_code">AE bracketing non è ancora supportato</string>
     <!-- The messsage shown if user selects a snapshot resolution lower than the current video size. -->
     <string name="snapshot_lower_than_video">Le dimensioni dello snapshot sono inferiori a quelle del video, e sono state adattate. Si prega di selezionare una risoluzione maggiore o uguale a quella del video.</string>

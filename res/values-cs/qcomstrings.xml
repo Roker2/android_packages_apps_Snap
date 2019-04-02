@@ -51,6 +51,7 @@
     <string name="pref_camera_audioencoder_title">Zvukový kodek</string>
     <!-- Settings screen, Audio encoder dialog radio button choices -->
     <!-- Default Skin Tone Enhancement setting. Do not translate. -->
+    <string name="pref_camera_skinToneEnhancement_default">zakázat</string>
     <!-- Settings screen, Select Skin Tone Enhancement title -->
     <string name="pref_camera_skinToneEnhancement_title">Vylepšení tónů pleti</string>
     <!-- Settings screen, Skin Tone Enhancement radio button choices -->
@@ -180,6 +181,7 @@
     <string name="pref_camera_ae_bracket_hdr_entry_ae_bracket">Automatický expoziční bracketing</string>
     <string name="pref_camera_ae_bracket_hdr_title">Automatický expoziční bracketing</string>
     <string name="pref_camera_ae_bracket_hdr_entry_on">Zapnuto</string>
+    <string name="pref_camera_ae_bracket_hdr_entry_off">Vyp.</string>
     <string name="err_app_unsupport_ae_bracket_code">AE bracketing není zatím podporován</string>
     <!-- The messsage shown if user selects a snapshot resolution lower than the current video size. -->
     <string name="snapshot_lower_than_video">Rozlišení snímků z videa je nižší než vlastní rozlišení videa. Zvolte rozlišení vyšší nebo stejné jako snímané video.</string>

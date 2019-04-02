@@ -51,6 +51,7 @@
     <string name="pref_camera_audioencoder_title">Kodek zvoka</string>
     <!-- Settings screen, Audio encoder dialog radio button choices -->
     <!-- Default Skin Tone Enhancement setting. Do not translate. -->
+    <string name="pref_camera_skinToneEnhancement_default">onemogoči</string>
     <!-- Settings screen, Select Skin Tone Enhancement title -->
     <string name="pref_camera_skinToneEnhancement_title">Izboljšanje tona kože</string>
     <!-- Settings screen, Skin Tone Enhancement radio button choices -->
@@ -180,6 +181,7 @@
     <string name="pref_camera_ae_bracket_hdr_entry_ae_bracket">Korektura sam. osvetlitve</string>
     <string name="pref_camera_ae_bracket_hdr_title">Korektura sam. osvetlitve</string>
     <string name="pref_camera_ae_bracket_hdr_entry_on">Vklopljeno</string>
+    <string name="pref_camera_ae_bracket_hdr_entry_off">Izklopljeno</string>
     <string name="err_app_unsupport_ae_bracket_code">Korektura samodejne osvetlitve še ni podprta</string>
     <!-- The messsage shown if user selects a snapshot resolution lower than the current video size. -->
     <string name="snapshot_lower_than_video">Velikost samodejnega posnetka je nižja od velikosti videoposnetka, omejevanje na velikost videoposnetka. Izberite ločljivost višjo ali enako velikosti trenutnega videoposnetka.</string>

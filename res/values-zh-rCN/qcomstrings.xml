@@ -51,6 +51,7 @@
     <string name="pref_camera_audioencoder_title">音频编码器</string>
     <!-- Settings screen, Audio encoder dialog radio button choices -->
     <!-- Default Skin Tone Enhancement setting. Do not translate. -->
+    <string name="pref_camera_skinToneEnhancement_default">停用</string>
     <!-- Settings screen, Select Skin Tone Enhancement title -->
     <string name="pref_camera_skinToneEnhancement_title">皮肤色调增强</string>
     <!-- Settings screen, Skin Tone Enhancement radio button choices -->
@@ -180,6 +181,7 @@
     <string name="pref_camera_ae_bracket_hdr_entry_ae_bracket">自动包围曝光</string>
     <string name="pref_camera_ae_bracket_hdr_title">自动包围曝光</string>
     <string name="pref_camera_ae_bracket_hdr_entry_on">开启</string>
+    <string name="pref_camera_ae_bracket_hdr_entry_off">关闭</string>
     <string name="err_app_unsupport_ae_bracket_code">不支持自动包围曝光</string>
     <!-- The messsage shown if user selects a snapshot resolution lower than the current video size. -->
     <string name="snapshot_lower_than_video">视频快照的大小低于视频的大小，以视频大小为上限。请选择高于或等于当前视频大小的分辨率。</string>

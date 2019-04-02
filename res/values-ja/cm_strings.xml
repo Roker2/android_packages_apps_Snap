@@ -69,7 +69,7 @@
     <string name="pref_camera_scenemode_entry_whiteboard">ホワイトボード</string>
     <!-- Settings screen, focus mode -->
     <string name="pref_camera_focusmode_entry_continuous">コンティニュアス</string>
-    <string name="pref_camera_focusmode_entry_mw_continuous">コンティニュアス（MW）</string>
+    <string name="pref_camera_focusmode_entry_mw_continuous">コンティニュアス (MW)</string>
     <string name="pref_camera_focusmode_entry_extended">拡張</string>
     <string name="pref_camera_focusmode_entry_facedetect">顔認識</string>
     <string name="pref_camera_focusmode_entry_facepriority">顔優先</string>
@@ -93,7 +93,7 @@
     <!-- Max brightness -->
     <string name="pref_camera_max_brightness_title">画面を明るくする</string>
     <!-- Touch focus duration -->
-    <string name="pref_camera_focustime_title">タッチフォーカス継続</string>
+    <string name="pref_camera_focustime_title">タッチフォーカスの保持時間</string>
     <string name="pref_camera_focustime_entry_0">0秒</string>
     <string name="pref_camera_focustime_entry_3">3秒</string>
     <string name="pref_camera_focustime_entry_5">5秒</string>
@@ -104,5 +104,5 @@
     <!-- Advanced options -->
     <string name="developer_menu_enabled">上級者向けのカメラのオプションを有効にしました</string>
     <string name="developer_menu_disabled">上級者向けのカメラのオプションを無効にしました</string>
-    <string name="pref_camera2_preferences_category_developer">高度な設定</string>
+    <string name="pref_camera2_preferences_category_developer">高度なオプション</string>
 </resources>
