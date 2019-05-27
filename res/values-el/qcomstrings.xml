@@ -51,6 +51,7 @@
     <string name="pref_camera_audioencoder_title">Κωδικοποιητής ήχου</string>
     <!-- Settings screen, Audio encoder dialog radio button choices -->
     <!-- Default Skin Tone Enhancement setting. Do not translate. -->
+    <string name="pref_camera_skinToneEnhancement_default">απενεργοποίηση</string>
     <!-- Settings screen, Select Skin Tone Enhancement title -->
     <string name="pref_camera_skinToneEnhancement_title">Βελτίωση τόνου δέρματος</string>
     <!-- Settings screen, Skin Tone Enhancement radio button choices -->
@@ -180,6 +181,7 @@
     <string name="pref_camera_ae_bracket_hdr_entry_ae_bracket">Bracketing αυτόματης έκθεσης</string>
     <string name="pref_camera_ae_bracket_hdr_title">Bracketing αυτόματης έκθεσης</string>
     <string name="pref_camera_ae_bracket_hdr_entry_on">Ενεργό</string>
+    <string name="pref_camera_ae_bracket_hdr_entry_off">Απενεργοποιημένο</string>
     <string name="err_app_unsupport_ae_bracket_code">Το Bracketing ΑΕ δεν υποστηρίζεται ακόμη</string>
     <!-- The messsage shown if user selects a snapshot resolution lower than the current video size. -->
     <string name="snapshot_lower_than_video">Το μέγεθος στιγμιότυπου βίντεο είναι μικρότερο από το μέγεθος βίντεο, κλείδωμα στο μέγεθος βίντεο. Παρακαλώ επιλέξτε ένα μέγεθος μεγαλύτερο ή ίσο με το τρέχον μέγεθος βίντεο.</string>
@@ -568,6 +570,9 @@
     <string name="pref_camera2_initial_camera_entry_mono">Μονόχρωμο</string>
     <string name="pref_camera2_initial_camera_entry_front">Μπροστινή</string>
     <string name="pref_camera2_eis_title">EIS βίντεο</string>
+    <string name="pref_camera2_eis_entry_v2enable">V2</string>
+    <string name="pref_camera2_eis_entry_v3enable">V3</string>
+    <string name="pref_camera2_eis_entry_v3_set_when_pause">V3 και ενεργοποίηση όταν βρίσκεται σε παύση</string>
     <string name="pref_camera2_eis_entry_disable">Ανενεργός</string>
     <string name="pref_camera2_fovc_title">FOVC βίντεο</string>
     <string name="pref_camera2_fovc_entry_enable">Ενεργός</string>

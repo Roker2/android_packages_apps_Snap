@@ -80,6 +80,7 @@
     <string name="pref_camera_manual_exp_entry_ISO_priority">Belichtungsautomatik</string>
     <string name="pref_camera_manual_exp_entry_exptime_priority">Blendenautomatik</string>
     <string name="pref_camera_manual_exp_entry_user_setting">Benutzereinstellung</string>
+    <string name="pref_camera_manual_exp_entry_gains_priority">Gesichtspriorität</string>
     <string name="pref_camera_manual_exp_entry_off">Aus</string>
     <!-- Manual white balance entry values -->
     <string name="pref_camera_manual_wb_title">Manueller Weißabgleich</string>
@@ -568,15 +569,25 @@
     <string name="pref_camera2_initial_camera_entry_bayer">Bayer</string>
     <string name="pref_camera2_initial_camera_entry_mono">Schwarzweiß</string>
     <string name="pref_camera2_initial_camera_entry_front">Frontkamera</string>
+    <string name="pref_camera2_eis_title">Video EIS</string>
+    <string name="pref_camera2_eis_entry_v2enable">V2</string>
+    <string name="pref_camera2_eis_entry_v3enable">V3</string>
+    <string name="pref_camera2_eis_entry_v3_set_when_pause">V3 und während der Pause festlegen</string>
     <string name="pref_camera2_eis_entry_disable">Deaktiviert</string>
+    <string name="pref_camera2_fovc_title">Video FOVC</string>
     <string name="pref_camera2_fovc_entry_enable">Aktiviert</string>
     <string name="pref_camera2_fovc_entry_disable">Deaktiviert</string>
     <string name="pref_camera2_video_hdr_entry_enable">Aktiviert</string>
     <string name="pref_camera2_video_hdr_entry_disable">Deaktiviert</string>
+    <string name="pref_camera2_stats_visualizer_title">Statistik-Visualizer</string>
     <string name="pref_camera2_stats_visualizer_entry_disable">Alle deaktivieren</string>
+    <string name="pref_camera2_stats_visualizer_entry_bg_stats">BG-Statistiken</string>
+    <string name="pref_camera2_stats_visualizer_entry_be_stats">BE-Statistiken</string>
+    <string name="pref_camera2_stats_visualizer_entry_hist_stats">Live-Statistiken</string>
     <string name="pref_camera2_capture_mfnr_title">Rauschunterdrückung (Serienaufnahme)</string>
     <string name="pref_camera2_capture_mfnr_entry_enable">Aktiviert</string>
     <string name="pref_camera2_capture_mfnr_entry_disable">Deaktiviert</string>
+    <string name="pref_camera2_capture_mfsr_title">Superauflösung von mehreren Bildern</string>
     <string name="pref_camera2_capture_mfsr_entry_enable">Aktiviert</string>
     <string name="pref_camera2_capture_mfsr_entry_disable">Deaktiviert</string>
 </resources>
