@@ -64,7 +64,7 @@
     <string name="pref_camera_scenemode_entry_steadyphoto">ステディカム</string>
     <string name="pref_camera_scenemode_entry_supernight">闇夜</string>
     <string name="pref_camera_scenemode_entry_sweepstitch">スイープステッチ</string>
-    <string name="pref_camera_scenemode_entry_text">テキスト</string>
+    <string name="pref_camera_scenemode_entry_text">文字</string>
     <string name="pref_camera_scenemode_entry_theatre">シアター</string>
     <string name="pref_camera_scenemode_entry_whiteboard">ホワイトボード</string>
     <!-- Settings screen, focus mode -->
